@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Vagrant::Chefdev::VERSION
   spec.authors       = ["nikethan.nagularaja"]
   spec.email         = ["nikethan.nagularaja@workday.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Delete chef client and node in multi VM environment}
+  spec.summary       = %q{Delete chef client and node in multi VM environment}
   spec.homepage      = ""
   spec.license       = "MIT"
 
