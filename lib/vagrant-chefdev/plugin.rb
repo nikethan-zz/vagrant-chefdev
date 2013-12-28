@@ -1,4 +1,4 @@
-require 'vagrant/chefdev/action'
+require 'vagrant-chefdev/action'
 
 module Vagrant
   module Chefdev

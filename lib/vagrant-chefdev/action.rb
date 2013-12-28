@@ -1,5 +1,5 @@
-require 'vagrant/chefdev/action/delete_chef_client'
-require 'vagrant/chefdev/action/delete_chef_node'
+require 'vagrant-chefdev/action/delete_chef_client'
+require 'vagrant-chefdev/action/delete_chef_node'
 
 module Vagrant
   module Chefdev

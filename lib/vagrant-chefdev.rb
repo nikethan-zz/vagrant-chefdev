@@ -1,4 +1,6 @@
-require "vagrant/chefdev/version"
+require "vagrant-chefdev/plugin"
+require "vagrant-chefdev/version"
+
 
 module Vagrant
   module Chefdev
